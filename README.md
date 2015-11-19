@@ -1,2 +1,7 @@
 # Bluewind001.github.io
-blog
+
+My github:https://github.com/Bluewind001
+
+github blog : https://github.com/Bluewind001/Documents
+
+csdn blog : http://blog.csdn.net/wybluewind
